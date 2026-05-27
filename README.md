@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, soy Kiro_Svf👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/f5ab83cc-1db0-4fc7-a840-674aed60c615">
+<img src="https://github.com/user-attachments/assets/615f6256-9515-4ad7-9d0f-a71c68147071"/>
+
 
 ## About me
 ⭐ - I love learning about and exploring new tools, programming languages, and applications to improve my efficiency as a freelance developer.\
